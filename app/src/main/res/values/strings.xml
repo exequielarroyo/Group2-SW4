@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Group2SW4</string>
+    <string-array name="names">
+        <item>Exequiel Arroyo</item>
+        <item>Ella Jane Espiritu</item>
+        <item>Mher Jazer Alabalate</item>
+        <item>Jomar Apalat</item>
+        <item>Michelle Arroyo</item>
+        <item>Zyra Marie Ramos</item>
+    </string-array>
+</resources>

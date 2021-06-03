@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/sourceCodeOptionItem"
+        android:icon="@drawable/github_96px"
+        android:title="Source Code"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/followUsMenuItem"
+        android:title="Follow us" />
+    <item
+        android:id="@+id/groupMemberMenuItem"
+        android:title="Group members" />
+    <item
+        android:id="@+id/exitMenuItem"
+        android:title="Exit" />
+</menu>
